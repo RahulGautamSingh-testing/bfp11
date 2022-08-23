@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "web-vitals": "2.0.0",
-    "xmldoc": "1.0.0"
+    "xmldoc": "1.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
